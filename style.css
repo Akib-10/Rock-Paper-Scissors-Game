@@ -24,8 +24,8 @@ h1{
     width: 165px;
     border-radius: 50%;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: center; /* main axis niye kaj kore */
+    align-items: center; /* cross axis niye kaj kore */
 }
 
 .choice:hover{
